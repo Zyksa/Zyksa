@@ -1,5 +1,4 @@
 ## :man: Qui je suis? 
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/thomas-deveaud-6781b61ba/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:thomasdeveaud17@gmail.com)
 
 Je m'appelle Thomas, j'ai 20 ans.
