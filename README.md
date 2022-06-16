@@ -29,8 +29,3 @@ Actuellement en licence professionnelle Développeur Web full stack, je m'intere
 ### Quelques statistiques
 ![](https://github-readme-stats.vercel.app/api?username=Zyksa&show_icons=true&theme=radical&count_private=true)
 
-♥
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-
-https://img.shields.io/github/followers/Zyksa?style=social
