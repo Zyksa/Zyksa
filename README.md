@@ -2,7 +2,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/thomas-deveaud-6781b61ba/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:thomasdeveaud17@gmail.com)
 
-Actuellement en licence professionnelle Développeur Web full stack, je m'interesse à tout les langages autour du web.
+Je m'appelle Thomas, j'ai 20 ans.
+Actuellement en licence professionnelle Développeur Web full stack à La Rochelle, je m'interesse à tout les langages autour du web.
 
 ### :point_right: Langages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
