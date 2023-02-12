@@ -1,7 +1,7 @@
 ## :man: Qui je suis? 
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:thomasdeveaud17@gmail.com)
 
-Je m'appelle Thomas, j'ai 20 ans.
+Je m'appelle Thomas, j'ai 21 ans.
 Actuellement en licence professionnelle Développeur Web full stack à La Rochelle, je m'interesse à tout les langages autour du web.
 
 ### :point_right: Langages
