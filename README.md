@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Je m'appelle Thomas, j'ai 21 ans.
+Je m'appelle Thomas, j'ai 21 ans.<br>
 Je suis pudique, tout est en privé ici...
 
 ### Languages ⚙️
